@@ -28,3 +28,4 @@ int main()
 	cout << "Gross pay: " << gross_salary;
 
 	return 0;
+}
